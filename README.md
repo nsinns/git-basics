@@ -1,3 +1,0 @@
-# git-basics
-
-My second commit...
